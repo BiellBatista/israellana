@@ -13,3 +13,4 @@
 - 💪I'm currently focused on developing projects to improve my React JS / React Native skills.
 
 ✨ then... that's it 😃
+:brazil:
