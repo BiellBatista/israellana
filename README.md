@@ -1,4 +1,6 @@
-<p align="center"> Israel Lana </p>
+<div style="text-align:center">
+
+# Israel Lana
 
 ## 📫 Reach me on
 
@@ -21,3 +23,4 @@
 
 ✨ then... that's it 😃
 
+</div>
