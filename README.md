@@ -1,6 +1,8 @@
-<div style="text-align:center">
+<div align="center">
 
 # Israel Lana
+
+</div>
 
 ## 📫 Reach me on
 
@@ -22,5 +24,3 @@
 - 💪I'm currently focused on developing projects to improve my React JS / React Native skills.
 
 ✨ then... that's it 😃
-
-</div>
