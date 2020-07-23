@@ -1,4 +1,4 @@
-# Israel Lana
+<p align="center"> Israel Lana </p>
 
 ## 📫 Reach me on
 
