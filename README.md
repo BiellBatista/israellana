@@ -17,6 +17,8 @@
 
 ## 🚀 Welcome to my profile 🚀
 
+</div>
+
 👨‍🎓 My name is Israel and I am a Civil Engineer looking to enter the technology field. I am passionate about programming and currently work with Stack Node.js, React JS and React Native.
 
  📘 I'm always looking for new learnings. 
@@ -27,4 +29,4 @@
 
 ✨ then... that's it 😃
 
-</div>
+
