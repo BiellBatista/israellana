@@ -1,7 +1,7 @@
+<div align="center">
+
 ![](https://raw.githubusercontent.com/israellana/israellana/master/Mountain%20Photography%20Studio%20Facebook%20Cover.gif)
 
-<div align="center">
- 
  # 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! "[](https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif)
 
 ## 📫 Reach me on
